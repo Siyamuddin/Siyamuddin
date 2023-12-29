@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm UDDIN SIYAM</h1>
-<h3 align="center">A passionate Backend developer, I am an International student form South Korea, Studying Computer Engineering</h3>
+<h3 align="center">I am an International student from South Korea, Studying Computer Engineering(Backend Developer)</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.facebook.com/siyam.mizi.94](https://www.facebook.com/siyam.mizi.94)
 
-- 💬 Ask me about **Spring Boot, Backend and Computer Science**
+- 💬 Ask me about **Spring Boot, Backend, and Computer Science**
 
 - 📫 How to reach me **siyamuddin177@gmail.com**
 
