@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://siyamuddin.netlify.app/](https://github.com/Siyamuddin)
 
-- 📝 I regularly write active on [https://www.facebook.com/siyam.mizi.94](https://www.facebook.com/siyam.mizi.94)
+- 📝 I regularly active on [https://www.facebook.com/siyam.mizi.94](https://www.facebook.com/siyam.mizi.94)
 
 - 💬 Ask me about **Java, OOP, Spring Boot, Backend, and Computer Science**
 
