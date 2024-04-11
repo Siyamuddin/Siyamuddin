@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm UDDIN SIYAM</h1>
-<h3 align="center">I am an International student from SEJONG UNIVERSITY South Korea, Studying Computer Engineering(Backend Developer)</h3>
+<h3 align="center">I am an International student at SEJONG UNIVERSITY South Korea, Studying Computer Engineering(Backend Developer)</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siyamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="siyamuddin" /> </p>
 
 
-- 🌱 I’m currently learning **Spring and Spring Boot.**
+- 🌱 I’m a Spring Boot developer(interested in Backend Development)**
 
-- 👨‍💻 All of my projects are available at [https://siyamuddin.netlify.app/](https://github.com/Siyamuddin)
+- 👨‍💻 All my projects are available at [https://siyamuddin.netlify.app/](https://github.com/Siyamuddin)
 
-- 📝 I regularly active on [https://www.facebook.com/siyam.mizi.94](https://www.facebook.com/siyam.mizi.94)
+- 📝 I am regularly active on my FaceBook account: [https://www.facebook.com/siyam.mizi.94](https://www.facebook.com/siyam.mizi.94)
 
-- 💬 Ask me about **Java, OOP, Spring Boot, Backend, and Computer Science**
+- 💬 Ask me about **Java, OOP, Spring Boot, Backend, Computer Science, AI, Data Models, Machin learning, etc**
 
 - 📫 How to reach me **siyamuddin177@gmail.com**
 
-- 📄 Know about my experiences [https://siyamuddin.netlify.app/](https://siyamuddin.netlify.app/)
+- 📄 Learn more about me [https://siyamuddin.netlify.app/](https://siyamuddin.netlify.app/)
 
 - ⚡ Fun fact **I hate Math.**
 
