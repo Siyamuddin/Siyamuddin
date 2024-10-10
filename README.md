@@ -6,17 +6,17 @@
 
 - Backend Developer at [주식회사 오오칠팔구 as a Backend Engineer]([https://github.com/Siyamuddin/UniBlog](https://www.linkedin.com/company/ohohchilpalgu/about/))
 
-- 🌱 I’m currently learning **Backend System**
+- 🌱 I’m currently working on Backend/DevOps
 
-- 👨‍💻 All of my projects are available at [https://siyamuddin.netlify.app/](https://siyamuddin.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://uddin.netlify.app/](https://uddin.netlify.app/)
 
-- 📝 I regularly write articles on [https://www.facebook.com/siyam.mizi.94](https://www.facebook.com/siyam.mizi.94)
+- 📝 I am mostly active on [https://www.facebook.com/siyam.mizi.94](https://www.facebook.com/siyam.mizi.94)
 
 - 💬 Ask me about **Spring Boot, Backend Engineering, Computer Science, Ai, Machine learning, etc.**
 
 - 📫 How to reach me **siyamuddin177@gmail.com**
 
-- 📄 Know about my experiences [https://siyamuddin.netlify.app/](https://siyamuddin.netlify.app/)
+- 📄 Know about my experiences [https://uddin.netlify.app/](https://uddin.netlify.app/)
 
 - ⚡ Fun fact **I hate Math.**
 
