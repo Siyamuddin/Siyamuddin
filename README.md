@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm UDDIN SIYAM</h1>
-<h3 align="center">A passionate Backend developer, I am an International student from South Korea, Studying Computer Engineering</h3>
+<h3 align="center">A passionate Backend developer, I am an International student studying Computer Science and Engineering at Sejong University, South Korea</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siyamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="siyamuddin" /> </p>
