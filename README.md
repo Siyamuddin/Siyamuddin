@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on Backend/DevOps
 
-- 👨‍💻 All of my projects are available at [https://uddin.netlify.app/](https://uddin.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://uddin.netlify.app/](https://siyamuddin.xyz)
 
 - 📝 I am mostly active on [https://www.facebook.com/siyam.mizi.94](https://www.facebook.com/siyam.mizi.94)
 
