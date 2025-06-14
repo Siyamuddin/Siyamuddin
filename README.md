@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **siyamuddin177@gmail.com**
 
-- 📄 Know about my experiences [https://uddin.netlify.app/](https://uddin.netlify.app/)
+- 📄 Know about my experiences [https://uddin.netlify.app/](https://siyamuddin.xyz)
 
 - ⚡ Fun fact **I hate Math.**
 
