@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siyamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="siyamuddin" /> </p>
 
-- Backend Developer at [주식회사 오오칠팔구 as a Backend Engineer]([https://github.com/Siyamuddin/UniBlog](https://www.linkedin.com/company/ohohchilpalgu/about/))
+- Developer at [Sellerket LTD., as a Backend Engineer]([https://github.com/Siyamuddin/UniBlog](https://www.linkedin.com/company/ohohchilpalgu/about/))
 
 - 🌱 I’m currently working on Backend/DevOps
 
