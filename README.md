@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on Backend/DevOps
 
-- 👨‍💻 All of my projects are available at [siyamuddin.xyz](https://www.siyamuddin.xyz/#projects)
+- 👨‍💻 All of my projects are available at [siyamuddin.com](https://www.siyamuddin.com/#projects)
 
 - 📝 I am mostly active on [https://www.facebook.com/siyam.mizi.94](https://www.facebook.com/siyam.mizi.94)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **siyamuddin177@gmail.com**
 
-- 📄 Know about my experiences [siyamuddin.xyz](https://siyamuddin.xyz)
+- 📄 Know about my experiences [siyamuddin.com](https://siyamuddin.xyz)
 
 - ⚡ Fun fact **I hate Math.**
 
